@@ -1,1 +1,1 @@
-42 philosophers 100/100
+42 Philosophers 100/100
